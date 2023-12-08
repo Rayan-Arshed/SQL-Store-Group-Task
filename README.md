@@ -17,7 +17,7 @@ The goals for this task were fairly simple, to use a database and to add, remove
 We were able to complete all the tasks required in this worksheet, and as I was group leader, I was able to aid, assist, and guide my partners on the worksheet towards the solution, where we theorised ideas and tested them, before implementing them into our work if they worked. Particularly stand out is being able to do calculations with the columns, allowing for the Total Revenue to be calculated from the dataset.
 
 ## Repo Sections
-- SQL file
+- SQL file, both my answers and the code to create the database
 - Link to dataset: Store Table from https://dev.mysql.com/doc/sakila/en/sakila-installation.html
 
 ## Additional Screenshots
